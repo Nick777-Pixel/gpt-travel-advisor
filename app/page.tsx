@@ -14,7 +14,7 @@ export default function Home() {
 
   function checkRedirect() {
     if (window.location.hostname === 'gpt-travel-advisor.vercel.app') {
-      window.location.replace('https://www.roamaround.io/')
+      window.location.replace('https://travelplaner.vercel.app/')
     }
   }
 
