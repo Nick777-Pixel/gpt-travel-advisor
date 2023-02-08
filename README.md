@@ -1,6 +1,6 @@
 # GPT Travel advisor
 
-### Requirements.
+### Requirements
 
 Get API Key [here](https://openai.com/api/)
 
